@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700;800&display=swap");
+
+.body1{
+  font-family: montserrat;
+  background-color:rgb(250, 247, 247)
+}
+
+#nav_dashboard{
+    background-color: transparent;
+    width: 100%;
+    color:black;
+    position: fixed;
+    margin-top: -150px;  
+  }
+  
+  label.logo {
+    color: black;
+    font-size: 5vh;
+    padding: 0 4%;
+    font-weight: bold;
+    line-height: 200%;
+    float:left;
+  }
+  #nav_dashboard ul{
+    float: right;
+    margin-right: 2%;
+  }
+  #nav_dashboard ul li{
+    display: inline-block;
+    line-height: 500%;
+    margin: 0% 0%;
+  }
+  #nav_dashboard ul li ab{
+    color: black;
+    font-size: 2.3vh;
+    padding: 0.7vw 0.7vw;
+    border-radius: 15%;
+    text-transform: uppercase;
+  }
+  ab:hover{
+    background: rgb(255, 173, 173);
+    transition: .5s;
+  }
+  
+  
+  .sticky {
+    
+    top: 0;
+    width: 100%;
+  }
+  
+  #nav_dashboard ul ul{
+    position: absolute;
+    top: 60px;
+    display:none;
+  }
+  
+  #nav_dashboard ul li:hover ul{
+    display: block;
+  
+  }
+  
+  #nav_dashboard ul ul li {
+    width:100%;
+    height:50%;
+    float: none;
+    display: block;
+    position: relative;
+    
+  }
+  
+  #nav_dashboard ul ul li aa{
+   color:black;
+   font-size: 2vh;
+   text-transform: uppercase;
+   
+  }
+  
+  

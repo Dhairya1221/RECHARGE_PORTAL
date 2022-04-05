@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    background-color: rgb(255, 241, 241);
+  }
+  
+ 
+  
+  .main-container {
+    float: center;
+    width: 25%;
+    margin-bottom:5%;
+    padding: 0 10px;
+    position: relative;
+    padding-top: 15%;
+    margin-left: 25%;
+  }
+
+  .content1
+  {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    width: 200%;
+    text-align: center;
+    background-color: #f1f1f1; 
+        
+  }
+
+   .about-heading{
+    text-align: center;
+    color:rgb(46, 42, 42);
+    font-size: 6vh;
+  }
+
+  .about-heading4{
+    text-align: center;
+    color:rgb(46, 42, 42);
+    font-size: 3vh;
+  }
+
+  .content11  p{
+    text-align: center;
+    color:rgb(46, 42, 42);
+    font-size: 2.1vh;
+  }
+
+  .list li{
+    list-style-type: square;
+  }

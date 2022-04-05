@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "create-node-app": "^1.4.4",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.8",
+    "react-router-dom": "^6.2.1",
+    "react-use-navigate": "^0.1.1",
+    "server": "^1.0.37",
+    "twilio": "^3.75.0"
+  }
+}
